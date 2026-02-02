@@ -1,0 +1,32 @@
+{
+    "spotify": {
+        "Windows": "spotify.exe",
+        "Darwin": "open -a Spotify",
+        "Linux": "spotify"
+    },
+    "chrome": {
+        "Windows": "chrome.exe",
+        "Darwin": "open -a 'Google Chrome'",
+        "Linux": "google-chrome"
+    },
+    "vscode": {
+        "Windows": "code",
+        "Darwin": "open -a 'Visual Studio Code'",
+        "Linux": "code"
+    },
+    "calculator": {
+        "Windows": "calc.exe",
+        "Darwin": "open -a Calculator",
+        "Linux": "gnome-calculator"
+    },
+    "notepad": {
+        "Windows": "notepad.exe",
+        "Darwin": "open -a TextEdit",
+        "Linux": "gedit"
+    },
+    "terminal": {
+        "Windows": "cmd.exe",
+        "Darwin": "open -a Terminal",
+        "Linux": "gnome-terminal"
+    }
+}

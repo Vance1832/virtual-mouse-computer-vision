@@ -1,0 +1,12 @@
+{
+    "detection_confidence": 0.8,
+    "max_hands": 1,
+    "smoothing_factor": 5,
+    "gesture_cooldown": 0.8,
+    "scroll_amount": 100,
+    "camera_width": 640,
+    "camera_height": 480,
+    "margin": 100,
+    "app_launch_cooldown": 2.0,
+    "app_mode_duration": 3.0
+}
