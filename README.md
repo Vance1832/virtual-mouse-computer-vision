@@ -79,4 +79,5 @@ It helped me understand real-time systems, gesture recognition, and structuring 
 
 Khant Zayar  
 Computer Science Student – Rangsit University  
-Email: khant.z67@rsu.ac.th
+Email: khant.zayar.dev@gmail.com
+
